@@ -50,7 +50,7 @@ print(e)"""
 """loat(input("Enter a number: "))
 b=a**3
 print(b)"""
-#swap two number using xor opertor
+10.ap two number using xor opertor
 a=6
 b=7
 a=a^b
